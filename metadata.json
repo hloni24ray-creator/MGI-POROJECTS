@@ -1,0 +1,6 @@
+{
+  "name": "MGI Projects",
+  "description": "One Company. Multiple Solutions. Professional construction, cleaning, and facilities management in South Africa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
